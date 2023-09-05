@@ -1,0 +1,7 @@
+<html>
+<body>
+<h2>This is home page</h2>
+<p>We will deploy out project manually</p>
+<a href="about.jsp">go to about page</a>
+</body>
+</html>
